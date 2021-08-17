@@ -1,0 +1,9 @@
+name: FreeCam
+version: 1.0
+author: JChen
+main: com.jchen.freecam.FreeCam
+api-version: 1.17
+
+commands:
+  freecam: 
+  disable: 
